@@ -1,6 +1,8 @@
 <h1 align="center">🪄 Magic TypeScript 🪄</h1>
 <p align="center">A cheat-sheet of TypeScript’s most important/magic features</p>
 
+<p align="center"><b><a href="https://carltheperson.com/magic-typescript">Read the blog post about it here</a></b></p>
+
 [<img src="small.png" alt="Image" style="display: block; margin: 20px auto" />](https://carltheperson.com/images/magic-typescript/magic-typescript.png)
 
 # The cheat-sheet
