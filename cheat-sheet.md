@@ -457,4 +457,7 @@ type Example = NonNullable<string | undefined | null>;
 **Others**
 
 Other global utility types not listed include:
-_Parameters<T>, ConstructorParameters<T>, ReturnType<T>, InstanceType<T>, Uppercase<S>, Lowercase<S>, Capitalize<S>, Uncapitalize<S>, ThisType<T>, Readonly<T>, ArrayLike<T>, Awaited<T>, Promise<T>, PromiseLike<T>_
+
+```
+Parameters<T>, ConstructorParameters<T>, ReturnType<T>, InstanceType<T>, Uppercase<S>, Lowercase<S>, Capitalize<S>, Uncapitalize<S>, ThisType<T>, Readonly<T>, ArrayLike<T>, Awaited<T>, Promise<T>, PromiseLike<T>
+```
