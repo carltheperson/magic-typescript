@@ -5,7 +5,7 @@
 
 [<img src="small.png" alt="Image" style="display: block; margin: 20px auto" />](https://carltheperson.com/images/magic-typescript/magic-typescript.png)
 
-# The cheat-sheet
+# The cheat sheet
 
 [Click here to view it in full size](https://carltheperson.com/images/magic-typescript/magic-typescript.png)
 
