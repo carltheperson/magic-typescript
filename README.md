@@ -9,6 +9,12 @@
 
 [Click here to view it in full size](https://carltheperson.com/images/magic-typescript/magic-typescript.png)
 
+# Document version
+
+If you prefer to read the cheat sheet in a simple document, you can find that [here](cheat-sheet.md).
+
+There is a PDF version [here](cheat-sheet.pdf).
+
 # Source
 
 [This is the Figma file.](source.fig)
