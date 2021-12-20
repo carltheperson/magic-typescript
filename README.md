@@ -1,4 +1,4 @@
-<h1 align="center"Magic TypeScript</h1>
+<h1 align="center">Magic TypeScript</h1>
 <p align="center">A cheat-sheet of TypeScript’s most important/magic features</p>
 
 <p align="center"><b><a href="https://carltheperson.com/posts/magic-typescript">Read the blog post about it here</a></b></p>
