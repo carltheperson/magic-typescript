@@ -107,7 +107,7 @@ const isCat = (pet: Cat | Dog): pet is Cat => {
 };
 
 const pet = getRandomPet(); // Type is Cat | Dog
-if (isCat()) {
+if (isCat(pet)) {
   // Type is Cat
 } else {
   // Type is Dog
