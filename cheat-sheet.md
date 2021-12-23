@@ -272,7 +272,7 @@ const getUser = <T extends string | number>(id: T): { id: T; name: string } => {
 getUser(true);
 
 getUser(123); // Return type is { id: number, name: string }
-getUser("abc"); // Return type is { id: string name: string }
+getUser("abc"); // Return type is { id: string, name: string }
 ```
 
 # Conditional types
@@ -355,7 +355,7 @@ const c3: Coordinates = [7, "9"]; // TS error: string is not assignable to type 
 ### Spread tuples
 
 ```ts
-// A person can be called mulitple names but always has at least one
+// A person can be called multiple names but always has at least one
 type Names = [string, ...string[]];
 
 const p1Names: Names = ["Albert", "Bert", "Al"];
