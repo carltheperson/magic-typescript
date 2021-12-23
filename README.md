@@ -17,7 +17,7 @@ There is a PDF version [here](cheat-sheet.pdf).
 
 # Source
 
-[This is the Figma file.](source.fig)
+[This is the Figma file.](cheat-sheet.fig)
 
 # Issues
 
